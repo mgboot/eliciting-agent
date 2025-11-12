@@ -1,0 +1,85 @@
+{
+    "insuranceClaimForm": {
+        "policyInformation": {
+            "policyNumber": "POL-123456789",
+            "policyType": "Auto",
+            "effectiveDate": "",
+            "expirationDate": "",
+            "premiumPaid": ""
+        },
+        "insuredDetails": {
+            "firstName": "",
+            "lastName": "",
+            "dateOfBirth": "",
+            "email": "",
+            "phoneNumber": "",
+            "address": {
+                "street": "",
+                "city": "",
+                "state": "",
+                "zipCode": "",
+                "country": ""
+            }
+        },
+        "incidentDetails": {
+            "date": "",
+            "time": "",
+            "location": {
+                "street": "",
+                "city": "",
+                "state": "",
+                "zipCode": ""
+            },
+            "description": "",
+            "weatherConditions": "",
+            "policeReportFiled": "",
+            "policeReportNumber": ""
+        },
+        "vehicleInformation": {
+            "make": "",
+            "model": "",
+            "year": "",
+            "vin": "",
+            "licensePlate": "",
+            "currentMileage": "",
+            "damageDescription": ""
+        },
+        "otherPartyInformation": {
+            "involved": "",
+            "name": "",
+            "phoneNumber": "",
+            "insuranceProvider": "",
+            "policyNumber": ""
+        },
+        "witnesses": [
+            {
+                "name": "",
+                "phoneNumber": "",
+                "statement": ""
+            }
+        ],
+        "injuries": {
+            "injured": "",
+            "description": "",
+            "medicalAttentionReceived": "",
+            "hospitalVisited": ""
+        },
+        "documentation": {
+            "photos": "",
+            "policeReport": "",
+            "medicalRecords": "",
+            "repairEstimates": ""
+        },
+        "claimStatus": {
+            "submissionDate": "",
+            "claimNumber": "",
+            "adjusterAssigned": "",
+            "estimatedProcessingTime": ""
+        },
+        "declaration": {
+            "informationAccurate": "",
+            "signatureDate": "",
+            "fraudWarningAcknowledged": ""
+        }
+    }
+}
